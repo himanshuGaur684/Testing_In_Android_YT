@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="empty_email">Email must be entered.</string>
+</resources>
